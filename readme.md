@@ -19,4 +19,4 @@ A simple Restaurant landing page created using ```HTML``` and `CSS`. This Projec
 - How to place Background Image fit.
 - How to use Linear Gardient.
 
-## [Live Link]() of this Project
+## [Live Link](https://restaurent-landing-page-ineuron.netlify.app/ "Restaurant Landing Page") of this Project
